@@ -1,2 +1,8 @@
+[package]
+name = "actix-test"
+version = "0.1.0"
+authors = ["thehouseplant <sean.collins@outlook.com>"]
+edition = "2018"
+
 [dependencies]
 actix-web = "0.7"
